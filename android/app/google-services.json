@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "23436470153",
+    "project_id": "bookingapp-7775b",
+    "storage_bucket": "bookingapp-7775b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23436470153:android:18a4596c71a4911f11e358",
+        "android_client_info": {
+          "package_name": "com.demo.ImageSimilarityGame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8p4_znglPPK8VlpCCgxogigqEgafjXq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23436470153:android:d19a917330c4cb6911e358",
+        "android_client_info": {
+          "package_name": "com.example.social_logins"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8p4_znglPPK8VlpCCgxogigqEgafjXq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
